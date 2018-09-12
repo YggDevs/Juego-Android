@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">piedrapapeltijera</string>
+
+    <string name="iv_input">imagen_entrada</string>
+    <string name="title_activity_resultados">resultados</string>
+
+
+</resources>
